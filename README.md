@@ -5,6 +5,7 @@
 ## About The Project
 
 ![Alt text](/web-ui.png?raw=true "Optional Title")
+![Alt text](/web-ui1.png?raw=true "Optional Title")
 
 This is simple e-commerce website build using `Tailwind.css` with some customized css. It is fully Responsive and Scalable.
 
